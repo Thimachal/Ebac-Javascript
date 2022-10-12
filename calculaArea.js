@@ -1,3 +1,4 @@
+//calcula tamanho
 let base = prompt("Digite o valor da base");
 let altura = prompt("Digite o valor da da altura");
 
