@@ -8,3 +8,4 @@ function calc(base, altura) {
     console.log(`O resultado é: ${result}`);
 }
 calc (base,altura);
+//feito
