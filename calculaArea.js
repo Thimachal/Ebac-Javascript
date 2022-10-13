@@ -9,3 +9,5 @@ function calc(base, altura) {
 }
 calc (base,altura);
 //feito
+//hr
+
